@@ -1,0 +1,5 @@
+additional,Adjective,Extra,We require additional information.
+convention,Noun,A way in which something is usually done.,He was an upholder of convention and correct form.
+vulnerable,Adjective,Exposed to the possibility of being attacked or harmed.,We were in a vulnerable position.
+rendezvous,Noun,A meeting at an agreed time and place.,Edward turned up late for their rendezvous.
+occasion,Noun,A particular event or the time at which it takes place.,On one occasion I stayed up until two in the morning.
